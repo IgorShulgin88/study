@@ -1,0 +1,5 @@
+my_string=input('Я вождь земных царей и царь ')
+print(len(my_string))
+print(my_string .upper().lower().replace(' ',''))
+print(my_string[0])
+print(my_string[-1])
